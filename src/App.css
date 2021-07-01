@@ -1,0 +1,24 @@
+img{
+border-radius: 50%;
+height:300px;
+width : 300px;
+display:inline;
+
+
+}
+
+video{
+  display:block;
+  margin-left:100px;
+  border-radius: 50px;
+}
+
+.titleRed{
+  margin-left:180px;
+  
+  color:red;
+}
+
+poster {
+  border-radius: 10%;
+}
